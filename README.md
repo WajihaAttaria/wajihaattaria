@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzCasrR4ia7X/giphy.gif" width="100px" alt="Hello Wave" /> <h1 align="center">
     Hi there 👋, I'm <span style="color:#64B5F6;"><b>Wajiha Attaria</b></span>!
   </h1>
   <h3 align="center">
@@ -41,6 +40,10 @@ Here are the technologies and tools I work with:
   <img src="https://skillicons.dev/icons?i=html,css,js,python,vscode,github,vercel" alt="Core Technologies" />
 </p>
 
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400px" hight="400px" alt="Cool Animation" />
+</p>
 ---
 
 ### Let's Connect & Collaborate! 📬
