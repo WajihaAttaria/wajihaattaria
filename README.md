@@ -88,17 +88,3 @@ See my contributions and stats:
 ---
 
 > 🌟 *Building the web, one pixel at a time!*
-
----
-
-### Important: Steps to Make it Perfect for Wajiha:
-
-1.  **Replace ALL GIF URLs:**
-    * `https://media.giphy.com/media/hvRJCLFzCasrR4ia7X/giphy.gif` (for the "Hello Wave" at the top)
-    * Find a subtle, friendly, and professional GIF. You can search Giphy.com for terms like "hello wave gif" or "coding animation gif". Once you find one, get its direct `.gif` link and paste it into the markdown.
-
-2.  **Verify All Links:** Please double-check all of Wajiha's links (GitHub, LinkedIn, Instagram, Vercel) to make sure they are 100% correct.
-
-3.  **Implement on GitHub:** Copy this entire block of Markdown code and paste it into the `README.md` file in Wajiha's GitHub profile repository (the one named `WajihaAttaria/WajihaAttaria`).
-
-I've kept the language clear and straightforward, focused on frontend development, and ensured the structure is clean and professional. I hope Wajiha loves it!
